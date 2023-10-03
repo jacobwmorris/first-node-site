@@ -1,0 +1,18 @@
+{
+  "name": "first-node-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "My first node site for The Odin Project.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"There are no tests\"",
+    "start": "node src/main.js"
+  },
+  "keywords": [
+    "first",
+    "node",
+    "site"
+  ],
+  "author": "Jacob Morris",
+  "license": "ISC"
+}
